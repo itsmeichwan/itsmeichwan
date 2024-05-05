@@ -24,9 +24,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeichwan&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
 <br/>
-<img src="https://github.com/elliottophellia/elliottophellia/raw/main/img/Repo-elaina.png" width="488" />
-<br/>
-<br/>
+
   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=itsmeichwan&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
