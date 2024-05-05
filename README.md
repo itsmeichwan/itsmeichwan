@@ -2,7 +2,7 @@
 <div>
 <img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="488" />
+<img src="https://github.com/elliottophellia/elliottophellia/raw/main/img/AboutMe-elaina.png" width="488" />
 <br/>
 <br/>
 <br/>
