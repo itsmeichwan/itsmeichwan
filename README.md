@@ -27,6 +27,17 @@
 <img src="https://github.com/elliottophellia/elliottophellia/raw/main/img/Repo-elaina.png" width="488" />
 <br/>
 <br/>
+  
+- 📗 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
+  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
+- 📘 [***elliottophellia/yakumo***](https://github.com/elliottophellia/yakumo) <br/>
+  FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5 (WITH GLOBAL/COUNTRY SPECIFIC RESULT).
+- 📙 [***elliottophellia/kyoko***](https://github.com/elliottophellia/kyoko) <br/>
+  KyokoAPI - My collection of free API you can use on your project.
+- 📒 [***elliottophellia/kaga***](https://github.com/elliottophellia/kaga) <br/>
+  Kaga is a Reverse IP Lookup tool written in PowerShell and BourneShell to make it easy to use in any environment..
+<br/>
+<br/>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=itsmeichwan&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 <br/><br/>
 <p align='center'>
