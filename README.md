@@ -21,7 +21,7 @@
   
 - Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeichwan&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />
@@ -33,7 +33,7 @@
 <img src="./img/banner-elainaa.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
 <br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=itsmeichwan&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 <br/><br/>
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
