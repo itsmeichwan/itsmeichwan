@@ -7,41 +7,23 @@
 <br/>
 <br/>
 
-- Name **Reidho Satria** / **レイドー・サトリア**
+- Name **Kyle Archangel** / **レイドー・サトリア**
 
-- Live in **South Sumatra, Indonesia**
+- Live in **Pinrang, Sulawesi Selatan**
 
-- Studying [**Junior Back-End Developer**](https://dicoding.com)
+- Good with **JavaScript** , **PHP**  , and **Python**
 
-- Familiar with **GNU/Linux** and **FreeBSD**
-
-- Good with **JavaScript** , **TypeScript** , **PHP** , **Go** , and **Python**
-
-- Have high experience with **Photoshop** and **CorelDRAW**
+- Have high experience with **Photoshop**
   
-- Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
+- Understand Bahasa Indonesia, Bahasa Bugis, and English
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeichwan&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
-<br/>
-<br/>
-<img src="https://github.com/elliottophellia/elliottophellia/raw/main/img/Repo-elaina.png" width="488" />
-<br/>
-<br/>
-  
-- 📗 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
-  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
-- 📘 [***elliottophellia/yakumo***](https://github.com/elliottophellia/yakumo) <br/>
-  FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5 (WITH GLOBAL/COUNTRY SPECIFIC RESULT).
-- 📙 [***elliottophellia/kyoko***](https://github.com/elliottophellia/kyoko) <br/>
-  KyokoAPI - My collection of free API you can use on your project.
-- 📒 [***elliottophellia/kaga***](https://github.com/elliottophellia/kaga) <br/>
-  Kaga is a Reverse IP Lookup tool written in PowerShell and BourneShell to make it easy to use in any environment..
 <br/>
 <br/>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=itsmeichwan&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 <br/><br/>
 <p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://ichwal.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/kyle.archangel"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/wanthu"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/kumar.mlbb"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@kumar.mlbb"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/#"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
 <img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
 </div>
